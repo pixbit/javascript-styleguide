@@ -37,12 +37,11 @@
     "catch"
   ],
   "requireSpaceBeforeBinaryOperators": [
-      "=", "+=", "-=", "*=", "/=", "%=", "<<=", ">>=", ">>>=",
-      "&=", "|=", "^=", "+=",
-
-      "+", "-", "*", "/", "%", "<<", ">>", ">>>", "&",
-      "|", "^", "&&", "||", "===", "==", ">=",
-      "<=", "<", ">", "!=", "!=="
+    "=", "+=", "-=", "*=", "/=", "%=", "<<=", ">>=", ">>>=",
+    "&=", "|=", "^=", "+=",
+    "+", "-", "*", "/", "%", "<<", ">>", ">>>", "&",
+    "|", "^", "&&", "||", "===", "==", ">=",
+    "<=", "<", ">", "!=", "!=="
   ],
   "requireSpaceAfterBinaryOperators": true,
   "requireSpacesInConditionalExpression": true,
@@ -50,10 +49,10 @@
   "requireSpacesInForStatement": true,
   "requireLineFeedAtFileEnd": true,
   "requireSpacesInFunctionExpression": {
-      "beforeOpeningCurlyBrace": true
+    "beforeOpeningCurlyBrace": true
   },
   "disallowSpacesInAnonymousFunctionExpression": {
-      "beforeOpeningRoundBrace": true
+    "beforeOpeningRoundBrace": true
   },
   "disallowSpacesInsideObjectBrackets": "all",
   "disallowSpacesInsideArrayBrackets": "all",
@@ -62,10 +61,10 @@
   "disallowNewlineBeforeBlockStatements": true,
   "disallowKeywords": ["with"],
   "disallowSpacesInFunctionExpression": {
-      "beforeOpeningRoundBrace": true
+    "beforeOpeningRoundBrace": true
   },
   "disallowSpacesInFunctionDeclaration": {
-      "beforeOpeningRoundBrace": true
+    "beforeOpeningRoundBrace": true
   },
   "disallowSpacesInCallExpression": true,
   "disallowSpaceAfterObjectKeys": true,
@@ -76,15 +75,15 @@
   "validateParameterSeparator": ", ",
   "requireSpaceBetweenArguments": true,
   "jsDoc": {
-      "checkAnnotations": "closurecompiler",
-      "checkParamNames": true,
-      "requireParamTypes": true,
-      "checkRedundantParams": true,
-      "checkReturnTypes": true,
-      "checkRedundantReturns": true,
-      "requireReturnTypes": true,
-      "checkTypes": true,
-      "checkRedundantAccess": true,
-      "requireNewlineAfterDescription": true
+    "checkAnnotations": "closurecompiler",
+    "checkParamNames": true,
+    "requireParamTypes": true,
+    "checkRedundantParams": true,
+    "checkReturnTypes": true,
+    "checkRedundantReturns": true,
+    "requireReturnTypes": true,
+    "checkTypes": true,
+    "checkRedundantAccess": true,
+    "requireNewlineAfterDescription": true
   }
 }
