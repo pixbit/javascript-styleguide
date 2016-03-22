@@ -1,0 +1,19 @@
+{
+  "name": "pixbit-javascript-styleguide",
+  "version": "0.1.0",
+  "description": "JavaScript styleguide for the Pixbit Development team.",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixbit/javascript-styleguide.git"
+  },
+  "author": "Pixbit Development <dev@thinkpixbit.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixbit/javascript-styleguide/issues"
+  },
+  "homepage": "https://github.com/pixbit/javascript-styleguide#readme"
+}
