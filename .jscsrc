@@ -85,5 +85,6 @@
     "checkTypes": true,
     "checkRedundantAccess": true,
     "requireNewlineAfterDescription": true
-  }
+  },
+  "safeContextKeywords": "vm"
 }
