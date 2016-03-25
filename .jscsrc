@@ -11,7 +11,7 @@
   "requireOperatorBeforeLineBreak": true,
   "requireCamelCaseOrUpperCaseIdentifiers": {
     "allowedPrefixes": ["opt_"],
-    "allExcept": ["var_args", "app_metadata", "user_metadata"]
+    "allExcept": ["var_args", "app_metadata", "user_metadata", "user_id"]
   },
   "maximumLineLength": {
     "value": 80,
