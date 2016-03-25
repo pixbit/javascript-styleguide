@@ -29,14 +29,15 @@ $ npm version [<newversion> | major | minor | patch] -m "Upgrade for whatever re
 
 ```Shell
 $ git push origin master; git push origin --tags
+$ npm publish
 ```
 
 ---
 
-##### Step #6: Pull the changes to your project #####
+##### Step #5: Pull the changes to your project #####
 
 - To pull latest changes into your project, run:
 ```Shell
-$ npm update
+$ npm update or upgrade?
 ```
 
