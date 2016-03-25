@@ -33,7 +33,7 @@ $ git push origin master; git push origin --tags
 
 ---
 
-##### Step #6: Pull the changes to your project #####
+##### Step #5: Pull the changes to your project #####
 
 - To pull latest changes into your project, run:
 ```Shell
