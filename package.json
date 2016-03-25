@@ -1,6 +1,6 @@
 {
   "name": "pixbit-javascript-styleguide",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "JavaScript styleguide for the Pixbit Development team.",
   "main": "package.json",
   "scripts": {
