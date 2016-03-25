@@ -7,7 +7,7 @@
   "funcscope": true,
   "indent": 2,
   "maxdepth": 3,
-  "maxlen": 80,
+  "maxlen": false,
   "maxstatements": 50,
   "newcap": false,
   "node": true,
