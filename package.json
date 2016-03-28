@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pixbit/javascript-styleguide/issues"
   },
-  "homepage": "https://github.com/pixbit/javascript-styleguide#readme"
+  "homepage": "https://github.com/pixbit/javascript-styleguide#readme",
+  "dependencies": {
+    "jscs-jsdoc": "1.3.2"
+  }
 }
