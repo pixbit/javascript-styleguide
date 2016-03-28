@@ -29,14 +29,18 @@
   "jsDoc": {
     "checkAnnotations": "closurecompiler",
     "checkParamNames": true,
-    "requireParamTypes": true,
     "checkRedundantParams": true,
     "checkReturnTypes": true,
     "checkRedundantReturns": true,
-    "requireReturnTypes": true,
+    "checkTypes": "strictNativeCase",
     "checkTypes": true,
     "checkRedundantAccess": true,
-    "requireNewlineAfterDescription": true
+    "enforceExistence": {
+        "allExcept": ["exports"]
+    },
+    "requireNewlineAfterDescription": true,
+    "requireParamTypes": true,
+    "requireReturnTypes": true
   },
   "maximumLineLength": {
     "value": 80,
@@ -45,6 +49,9 @@
       "regex"
     ]
   },
+  "plugins": [
+    "jscs-jsdoc"
+  ],
   "requireSpaceAfterKeywords": [
     "if",
     "else",
