@@ -26,22 +26,6 @@
   },
   "disallowSpacesInCallExpression": true,
   "disallowSpaceAfterObjectKeys": true,
-  "jsDoc": {
-    "checkAnnotations": "closurecompiler",
-    "checkParamNames": true,
-    "checkRedundantParams": true,
-    "checkReturnTypes": true,
-    "checkRedundantReturns": true,
-    "checkTypes": "strictNativeCase",
-    "checkTypes": true,
-    "checkRedundantAccess": true,
-    "enforceExistence": {
-        "allExcept": ["exports"]
-    },
-    "requireNewlineAfterDescription": true,
-    "requireParamTypes": true,
-    "requireReturnTypes": true
-  },
   "maximumLineLength": {
     "value": 80,
     "allExcept": [
